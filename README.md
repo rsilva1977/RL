@@ -1,10 +1,9 @@
 # Q-Learning Demo
 
-A Python implementation of Q-Learning for [brief purpose, e.g., "navigating a grid world"].
+A Python implementation of Q-Learning for navigating a grid world.
 
 ## Features
 - Classic Q-Learning algorithm
-- [Custom environment/unique aspect]
 - Visualization of learning process
 
 ## Requirements
@@ -15,4 +14,4 @@ A Python implementation of Q-Learning for [brief purpose, e.g., "navigating a gr
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone [your-repo-url]
+   git clone https://github.com/rsilva1977/RL.git
